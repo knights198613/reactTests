@@ -9,9 +9,10 @@ const webpack = require('webpack');
 
 const config = {
     entry: {     /*定义webpack构建工程的入口文件，可以定义多个入口*/
-        linkButton: './src/es6/linkButton.js',
-        tag: './src/es6/tag.js',
-        index: './src/es6/index.js',
+        linkButton: './src/js/linkButton.js',
+        likeButton_2: './src/js/likeButton_2.js',
+        tag: './src/js/tag.js',
+        index: './src/js/index.js',
         vendor: 'moment'
     },
     output: {    /*设置编译文件的输出位置及文件名*/

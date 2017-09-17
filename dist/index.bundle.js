@@ -1,6 +1,6 @@
-webpackJsonp([2],{
+webpackJsonp([3],{
 
-/***/ 118:
+/***/ 119:
 /***/ (function(module, exports, __webpack_require__) {
 
 "use strict";
@@ -16,4 +16,4 @@ console.log(monent().format());
 
 /***/ })
 
-},[118]);
+},[119]);
